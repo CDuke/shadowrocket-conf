@@ -8,7 +8,7 @@ start () {
     count=0
     while true; do
         if curl -m 3 github.com; then
-            curl -f $DOMAINS --output /tmp/dnsmasq.d/proxy-ru-eu.lst
+	    curl -f $DOMAINS --output /tmp/dnsmasq.d/proxy-ru-eu.lst
             break
         else
             echo "GitHub is not available. Check the internet availability [$count]"
@@ -16,6 +16,7 @@ start () {
         fi
     done
 
-    if dnsmasq --conf-file=/tmp/dnsmasq.d/domains.lst --test 2>&1 | grep -q "syntax check OK"; then
+    if dnsmasq --conf-file=/tmp/dnsmasq.d/proxy-ru-eu.lst --test 2>&1 | grep -q "syntax check OK"; then
         /etc/init.d/dnsmasq restart
     fi
+}
