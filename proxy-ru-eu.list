@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,postfix.org
 DOMAIN-SUFFIX,protonmail.com
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,stackify.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.co
