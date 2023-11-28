@@ -21,6 +21,7 @@ nftset=/f.vision/4#inet#fw4#vpn_rkn_domains
 nftset=/fbcdn.net/4#inet#fw4#vpn_rkn_domains
 nftset=/cdnfacebook.com/4#inet#fw4#vpn_rkn_domains
 nftset=/fburl.com/4#inet#fw4#vpn_rkn_domains
+nftset=/fortinet.com/4#inet#fw4#vpn_rkn_domains
 nftset=/hackernoon.com/4#inet#fw4#vpn_rkn_domains
 nftset=/hashicorp.com/4#inet#fw4#vpn_rkn_domains
 nftset=/ibm.com/4#inet#fw4#vpn_rkn_domains
