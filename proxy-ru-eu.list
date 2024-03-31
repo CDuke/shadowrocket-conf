@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,postfix.org
 DOMAIN-SUFFIX,protonmail.com
