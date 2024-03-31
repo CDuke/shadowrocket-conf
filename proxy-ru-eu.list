@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,postfix.org
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,redis.com
