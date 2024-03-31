@@ -77,6 +77,7 @@ nftset=/twitthat.com/4#inet#fw4#vpn_rkn_domains
 nftset=/twtkr.com/4#inet#fw4#vpn_rkn_domains
 nftset=/twttr.com/4#inet#fw4#vpn_rkn_domains
 nftset=/themoviedb.org/4#inet#fw4#vpn_rkn_domains
+nftset=/tmdb.org/4#inet#fw4#vpn_rkn_domains
 nftset=/vimeo.com/4#inet#fw4#vpn_rkn_domains
 nftset=/vimeocdn.com/4#inet#fw4#vpn_rkn_domains
 nftset=/weather.com/4#inet#fw4#vpn_rkn_domains
