@@ -3,6 +3,7 @@
 # REPO: https://github.com/CDuke/shadowrocket-conf
 # UPDATED: 2023-12-05 21:05:14
 # see doc https://manual.nssurge.com/rule/ruleset.html
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,archimatetool.com
 DOMAIN-SUFFIX,bbc.com
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,fortinet.com
+DOMAIN-SUFFIX,goplay.tools
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,ibm.com
