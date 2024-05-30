@@ -12,7 +12,8 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,deloitte.com
 DOMAIN-SUFFIX,digitalocean.com
-DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
