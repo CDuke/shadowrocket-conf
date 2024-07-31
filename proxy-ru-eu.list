@@ -6,6 +6,7 @@
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,archimatetool.com
+DOMAIN-SUFFIX,bafista.ru
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,postfix.org
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,t-ru.org
 DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,redis.com
