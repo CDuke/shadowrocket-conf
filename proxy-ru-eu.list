@@ -1,8 +1,9 @@
 # NAME: Proxy Russia To Europe
 # AUTHOR: Denis Kulikov
 # REPO: https://github.com/CDuke/shadowrocket-conf
-# UPDATED: 2023-12-05 21:05:14
+# UPDATED: 2024-08-21 21:05:14
 # see doc https://manual.nssurge.com/rule/ruleset.html
+DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,archimatetool.com
@@ -11,6 +12,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,deloitte.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,docker.com
@@ -54,11 +56,13 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,microchip.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,help.mikrotik.com
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
+DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
