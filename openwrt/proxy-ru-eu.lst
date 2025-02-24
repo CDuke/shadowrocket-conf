@@ -1,3 +1,7 @@
+# NAME: Proxy Russia To Europe
+# AUTHOR: Denis Kulikov
+# REPO: https://github.com/CDuke/shadowrocket-conf
+# UPDATED: 2025-02-24 17:05:30
 nftset=/adguard.com/4#inet#fw4#vpn_rkn_domains
 nftset=/amazon.com/4#inet#fw4#vpn_rkn_domains
 nftset=/aol.com/4#inet#fw4#vpn_rkn_domains
@@ -52,9 +56,9 @@ nftset=/fbcdn.net/4#inet#fw4#vpn_rkn_domains
 nftset=/cdnfacebook.com/4#inet#fw4#vpn_rkn_domains
 nftset=/fburl.com/4#inet#fw4#vpn_rkn_domains
 nftset=/fortinet.com/4#inet#fw4#vpn_rkn_domains
+nftset=/goplay.tools/4#inet#fw4#vpn_rkn_domains
 nftset=/hackernoon.com/4#inet#fw4#vpn_rkn_domains
 nftset=/hashicorp.com/4#inet#fw4#vpn_rkn_domains
-nftset=/goplay.tools/4#inet#fw4#vpn_rkn_domains
 nftset=/ibm.com/4#inet#fw4#vpn_rkn_domains
 nftset=/intel.com/4#inet#fw4#vpn_rkn_domains
 nftset=/kahoot.com/4#inet#fw4#vpn_rkn_domains
@@ -83,10 +87,10 @@ nftset=/openai.com/4#inet#fw4#vpn_rkn_domains
 nftset=/oaistatic.com/4#inet#fw4#vpn_rkn_domains
 nftset=/oaiusercontent.com/4#inet#fw4#vpn_rkn_domains
 nftset=/chat.openai.com/4#inet#fw4#vpn_rkn_domains
+nftset=/plex.tv/4#inet#fw4#vpn_rkn_domains
 nftset=/proton.me/4#inet#fw4#vpn_rkn_domains
 nftset=/postfix.org/4#inet#fw4#vpn_rkn_domains
 nftset=/protonmail.com/4#inet#fw4#vpn_rkn_domains
-nftset=/plex.tv/4#inet#fw4#vpn_rkn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_rkn_domains
 nftset=/rutracker.cc/4#inet#fw4#vpn_rkn_domains
 nftset=/t-ru.org/4#inet#fw4#vpn_rkn_domains
