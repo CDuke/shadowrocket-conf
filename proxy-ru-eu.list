@@ -1,7 +1,7 @@
 # NAME: Proxy Russia To Europe
 # AUTHOR: Denis Kulikov
 # REPO: https://github.com/CDuke/shadowrocket-conf
-# UPDATED: 2025-02-24 17:05:30
+# UPDATED: 2025-04-18 20:01:08
 # see doc https://manual.nssurge.com/rule/ruleset.html
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,amazon.com
@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,archimatetool.com
 DOMAIN-SUFFIX,bafista.ru
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bitru.org
+DOMAIN-SUFFIX,bigfangroup.org
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,dell.com
@@ -38,11 +40,14 @@ DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dtf.ru
 DOMAIN-SUFFIX,dyson.com
+DOMAIN-SUFFIX,dyson.de
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,graph.facebook.com
@@ -56,8 +61,13 @@ DOMAIN-SUFFIX,f.vision
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fortinet.com
 DOMAIN-SUFFIX,goplay.tools
+DOMAIN-SUFFIX,gtorrent.club
+DOMAIN-SUFFIX,shell.cloud.google.com
+DOMAIN-SUFFIX,lookerstudio.google.com
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,ibm.com
@@ -75,30 +85,46 @@ DOMAIN-SUFFIX,mattermost.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,mikroTik.by
+DOMAIN-SUFFIX,miracleptr.wordpress.com
 DOMAIN-SUFFIX,microchip.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,help.mikrotik.com
+DOMAIN-SUFFIX,megapeer.vip
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
+DOMAIN-SUFFIX,newstudio.tv
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,postfix.org
 DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,radarr.servarr.com
+DOMAIN-SUFFIX,radarr.video
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,rutor.info
+DOMAIN-SUFFIX,sas.com
+DOMAIN-SUFFIX,securitycameraking.com
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,t-ru.org
+DOMAIN-SUFFIX,tabsoverspaces.com
 DOMAIN-SUFFIX,temporal.io
+DOMAIN-SUFFIX,trash-guides.info
 DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,redis.com
+DOMAIN-SUFFIX,refactoring.guru
 DOMAIN-SUFFIX,reliabills.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,skladchina.biz
@@ -113,6 +139,7 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.co
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
@@ -120,6 +147,7 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,uniondht.org
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wheather.com
 DOMAIN-SUFFIX,zetfix.online
