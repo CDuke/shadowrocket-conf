@@ -69,6 +69,7 @@ ibm.com
 intel.com
 kahoot.com
 licdn.com
+lidarr.audio
 linkedin.com
 lnkd.in
 lostfilm.run
